@@ -34,7 +34,7 @@ body {
 
 
         .ad-wrapper {
-            display: inline-block;
+            display: outline-block;
             max-width: 728px; /* Default desktop size */
             width: 100%;
         }
