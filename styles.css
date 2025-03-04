@@ -17,6 +17,23 @@ body {
     padding: 20px;
 }
 
+
+      .ad-container {
+            width: 160px;
+            height: 600px;
+            margin: 20px auto; /* Centers under content */
+            text-align: center;
+            background-color: #f1f1f1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+
+
+
+
 /* 🔹 Anchor Ad (Sticky Top) */
 .anchor-ad {
     position: fixed;
