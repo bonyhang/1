@@ -117,6 +117,11 @@ nav ul li a {
     color: #777;
 }
 
+
+.inline-size {
+      text-align: center;
+}
+
 .inline-ad,
 .video-ad,
 .native-ad {
