@@ -28,7 +28,7 @@ body {
     padding: 10px 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.09);
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 
@@ -42,12 +42,12 @@ body {
     bottom: 0;
     width: 100%;
    
-    background: #fff;
+    background: white;
     text-align: center;
     padding: 10px 0;
     z-index: 1000;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.9);
-    background: rgba(0, 0, 0, 0.9);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 
