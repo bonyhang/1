@@ -31,7 +31,7 @@ body {
 }
 
 /* 🔹 Anchor Ad (Sticky Top) */
-.sticky-ad {
+.bottom-ad {
     position: fixed;
     bottom: 0;
     width: 100%;
