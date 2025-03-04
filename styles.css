@@ -69,8 +69,8 @@ nav ul li a {
 }
 
 .fixed-ad img {
-    width: 728px;
-    max-width: 100%;
+    width: 100%;
+    max-width: 728px;
 }
 
 /* 🔹 Blog Post */
@@ -112,4 +112,25 @@ nav ul li a {
 /* 🔹 Auto-Loading Content */
 #auto-load-content {
     margin-top: 30px;
+}
+
+/* 🔹 Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        text-align: center;
+        padding: 10px 0;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .anchor-ad img,
+    .fixed-ad img,
+    .inline-ad img,
+    .video-ad img,
+    .native-ad img {
+        width: 100%;
+    }
 }
